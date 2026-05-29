@@ -19,7 +19,7 @@ train_dataset = datasets.MNIST(root='./data', train=True, download=True, transfo
 
 📝 NLP/Text Dataset (Labs 5, 8, 9, 11)
 
-We use a verified, script-free consumer reviews corpus to train automated product description engines, e-commerce support bots, and retail sentiment review classifiers.
+We use the stable, verified IMDB Sentiment Corpus as a benchmark proxy. Students will learn text preprocessing, classification, and language generation principles on large-scale consumer sentiment data.
 How to load via Hugging Face:
 Python
 
